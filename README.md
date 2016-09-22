@@ -1,2 +1,4 @@
 # hello-world
-I'm learneding!
+Learning how to code:
+What a modern endevor! 
+The world feels so new.
